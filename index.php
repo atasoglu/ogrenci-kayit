@@ -61,7 +61,7 @@
 		<h4 class="text-center text-danger"><b>Güncel Sınıf Listesi</b></h4>
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<table class="table table-bordered table striped">
+				<table class="table table-bordered table-striped">
 				<thead>
 					<th>id</th>
 					<th>İsim</th>
